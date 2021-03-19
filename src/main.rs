@@ -1,3 +1,5 @@
+mod slader;
+
 fn main() {
-    println!("Hello, world!");
+    slader::test();
 }
