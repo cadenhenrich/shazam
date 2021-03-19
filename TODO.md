@@ -1,6 +1,7 @@
 # To-do's
 
 ## Fetching
+- [ ] Find textbook through slader.com
 - [ ] Fetch whole page from slader.com using page number
 - [ ] Sort through and grab specific quesitons
 - [ ] Question specifications
