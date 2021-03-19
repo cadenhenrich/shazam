@@ -28,4 +28,4 @@ $ cp target/release/shazam ~/.local/bin
 < TBD >
 
 ## License
-This project is licensed under the GNU GPLv3. See `LICENSE.md` for more info
+This project is licensed under the GNU GPLv3. See `LICENSE` for more info
